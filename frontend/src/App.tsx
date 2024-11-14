@@ -138,7 +138,7 @@ function App() {
             My Carbon Footprint
           </h1>
           <p className="text-xl font-bold text-center text-white">
-            By @stephanodev
+            By Aman Dubey & Akshit Nagar
           </p>
         </div>
 
